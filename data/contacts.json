@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Charles Norman",
+    "company": "BLANET",
+    "email": "charlesnorman@blanet.com",
+    "phone": "(662)4193501",
+    "address": "21 Wadkins Lane, Oklahoma City, Ok 34562"
+  },
+  {
+    "name": "Montoya Franks",
+    "company": "FIREWAX",
+    "email": "montoyafranks@firewax.com",
+    "phone": "(662)3337501",
+    "address": "500 S Ervay Street, Dallas Tx 65653"
+  },
+  {
+    "name": "Richie Rich",
+    "company": "Lottery",
+    "email": "richierich@firewax.com",
+    "phone": "(501)6767687",
+    "address": "52 Bentonville Road, Dallas Tx 65653"
+  }
+]
